@@ -1,0 +1,13 @@
+ Hi there, I'm Om Aditya Pandey! 👋
+ 
+   I'm a Developer, Student and Software Enthusiast!!
+- 🏛️ Pursuing my Bachelor's degree from VIT Bhopal University - Sehore - Madhya Pradesh!
+- 👀 I’m interested in Full Stack Web Development...
+- 🌱 I’m currently learning everything...
+- 😄 Pronouns: He/Him...
+- ⚡ Fun fact: I love sci-fi movies and cricket...
+
+<!---
+OAP25/OAP25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
